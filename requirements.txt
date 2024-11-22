@@ -1,0 +1,2 @@
+groq==0.12.0
+reportlab==4.2.5
