@@ -25,10 +25,18 @@ ElderVerse Chatbot é um chatbot amigável e paciente projetado para engajar em 
    export GROQ_API_KEY=sua_chave_groq_api_key
    ```
 
-3. Ative o ambiente virtual:
+3. Crie o ambiente virtual:
    ```bash
-   source /myenv/bin/activate
+   python -m venv myenv
    ```
+4. Ative o ambiente virtual:
+    ```bash
+    source myenv/bin/activate
+    ```
+5. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Uso
 
