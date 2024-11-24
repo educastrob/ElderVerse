@@ -1,2 +1,4 @@
 groq==0.12.0
+python-opencv
+python-dotenv
 reportlab==4.2.5
