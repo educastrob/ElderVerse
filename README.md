@@ -16,7 +16,7 @@ ElderVerse Chatbot é um chatbot amigável e paciente projetado para engajar em 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Vinni-Cedraz/ElderVerse.git
+   git clone https://github.com/educastrob/ElderVerse.git
    cd ElderVerse
    ```
 
